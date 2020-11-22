@@ -1,3 +1,47 @@
 <resources>
     <string name="app_name">ListView</string>
+    <string name="operacion">Operaciones</string>
+    <string name="area">Areas</string>
+    <string name="volumen">Volumen</string>
+    <string name="operaciones_realizadas">Operaciones Realizadas</string>
+    <string name="numero">No</string>
+    <string name="dato">Datos</string>
+    <string name="resultado">Resultado</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="altura">Valor de la altura</string>
+    <string name="radio">Valor del radio</string>
+    <string name="calcular">Calcular</string>
+    <string name="circulo">Circulo</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="cono">Cono</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="lado">ingrese el valor del lado</string>
+    <string name="cubo">Cubo</string>
+    <string name="esfera" >Esfera</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="error_altura">Debe ingresar un valor de altura</string>
+    <string name="error_radio">Debe ingresar un valor de radio</string>
+    <string name="mensaje_error_altura_mayor_cero">La altura debe ser mayor que cero</string>
+    <string name="mensaje_error_radio_mayor_cero">El radio debe ser mayor que cero</string>
+    <string name="error_lado">Debe ingresar un valor de lado</string>
+    <string name="mensaje_error_lado_mayor_cero">EL valor del lado debe ser mayor que cero</string>
+    <string-array name="opciones">
+        <item>@string/area</item>
+        <item>@string/volumen</item>
+        <item>@string/operaciones_realizadas</item>
+    </string-array>
+    <string-array name="areas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/circulo</item>
+        <item>@string/triangulo</item>
+    </string-array>
+    <string-array name="volumenes">
+        <item>@string/cilindro</item>
+        <item>@string/esfera</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </string-array>
+
 </resources>

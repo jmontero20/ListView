@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="operacion">Operations</string>
+    <string name="area">Areas</string>
+    <string name="volumen">Volume</string>
+    <string name="operaciones_realizadas">Operations performed</string>
+    <string name="numero">No</string>
+    <string name="dato">Data</string>
+    <string name="resultado">Result</string>
+    <string name="cilindro">Cylinder</string>
+    <string name="altura">Height value</string>
+    <string name="radio">Height value</string>
+    <string name="calcular">Calculate</string>
+    <string name="circulo">Circle</string>
+    <string name="limpiar">Clean</string>
+    <string name="cono">Cone</string>
+    <string name="cuadrado">Square</string>
+    <string name="lado">Enter the side value</string>
+    <string name="cubo">Cube</string>
+    <string name="esfera">Sphere</string>
+    <string name="rectangulo">Rectangle</string>
+    <string name="triangulo">Triangle</string>
+    <string name="error_altura">You must enter a height value</string>
+    <string name="error_radio">You must enter a radius value</string>
+    <string name="mensaje_error_altura_mayor_cero">Height must be greater than zero</string>
+    <string name="mensaje_error_radio_mayor_cero">Radius must be greater than zero</string>
+    <string name="error_lado">Radius must be greater than zero</string>
+    <string name="mensaje_error_lado_mayor_cero">Side value must be greater than zero</string>
+</resources>
